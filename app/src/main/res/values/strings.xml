@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoLiveRtc</string>
+    <string name="title_activity_call">CallActivity</string>
+    <string name="missing_permissions_try_again">The application is missing permissions. It might not work correctly. Do you want to try again?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
